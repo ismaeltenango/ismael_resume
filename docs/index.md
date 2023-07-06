@@ -31,7 +31,7 @@ __Brigham Young University - Idaho__, Rexburg, Idaho
 ### Internships
 
 `January 2023 - April 2023`
-__The Church of Jesus Christ of Latter-day Saints__, Rexburg Idaho
+__The Church of Jesus Christ of Latter-day Saints__, Rexburg Idaho - 
 _Network Operations Engineer_
 - Global collaboration in the Network Proactive Service Team, fixing and troubleshooting ports in switches and routers remotely with the assistance of on-site personnel in over 20,000 locations
 - Explanatory clear communication for fast, effective, and proactive work with on-field technicians overseas supporting the Data Centers, Campus, and Field Network team
