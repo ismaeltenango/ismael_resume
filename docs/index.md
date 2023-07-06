@@ -1,42 +1,45 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Ismael Tenango's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Ismael Tenango
+Innovated and experimental, working under pressure and attentive to details. Enthusiastic about learning from teammates and brainstorming, looking for answers and solutions, and trying not to make more problems in the team or project, investing time out of the work schedule to be more productive during work hours
+A dedicated employee good known for punctuality and time management, pursuing team progress where good customer service, problem-solving, and a positive attitude as a plus, flexible, ready to study and contribute to team success, to strive for the company's goals.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+  <a href = "mailto: ismael4477@gmail.com">Ismael4477@gmail.com</a>
+<!-- | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a> -->
+| <a href="https://www.linkedin.com/in/ismael-tenango1998/">LinkedIn</a>
+<!-- | <a href="https://github.com/byuids-resumes">GitHub</a> -->
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2020 - April, 2024 (Expected)`
+__Brigham Young University - Idaho__, Rexburg, Idaho
 
-- Full academic scholarship with 4.0 GPA
+- Bachelor of Science: Computer Information Technology 
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+- 3.7 Comulative GPA
 
-- 4.0 Major GPA
 
 
 ## Related Experience
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`January 2023 - April 2023`
+__The Church of Jesus Christ of Latter-day Saints__, Rexburg Idaho
+_Network Operations Engineer_
+- Global collaboration in the Network Proactive Service Team, fixing and troubleshooting ports in switches and routers remotely with the assistance of on-site personnel in over 20,000 locations
+- Explanatory clear communication for fast, effective, and proactive work with on-field technicians overseas supporting the Data Centers, Campus, and Field Network team
+- Professional handling of sensitive information and access with adequate manipulation 
+- Troubleshoot PDUs and UPSs that are causing whole networks for going down. Maintenance, and prevention for future networks going down on sites
+- Casual Participation in the migration from Cisco to Arista and the hybrid Field Network of Meraki SDWAN and Cisco
+- Helping support a global network in every country in the world in both the Urban and Rural areas
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
 
 ### Data Science Lead
 
