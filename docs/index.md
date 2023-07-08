@@ -4,8 +4,8 @@ title: Ismael Tenango's Resume
 ---
 # Ismael Tenango
 
-Innovated and experimental, working under pressure and attentive to details. Enthusiastic about learning from teammates and brainstorming, looking for answers and solutions, and trying not to make more problems in the team or project, investing time out of the work schedule to be more productive during work hours
-A dedicated employee good known for punctuality and time management, pursuing team progress where good customer service, problem-solving, and a positive attitude as a plus, flexible, ready to study and contribute to team success, to strive for the company's goals.
+_Innovated and experimental, working under pressure and attentive to details. Enthusiastic about learning from teammates and brainstorming, looking for answers and solutions, and trying not to make more problems in the team or project, investing time out of the work schedule to be more productive during work hours
+A dedicated employee good known for punctuality and time management, pursuing team progress where good customer service, problem-solving, and a positive attitude as a plus, flexible, ready to study and contribute to team success, to strive for the company's goals._
 
 <div id="webaddress">
   <a href = "mailto: ismael4477@gmail.com">Ismael4477@gmail.com</a>
@@ -19,7 +19,7 @@ A dedicated employee good known for punctuality and time management, pursuing te
 
 ## Education
 
-`2020 - April, 2024 (Expected)`
+`2020 -  (Expected) April 2024`
 __Brigham Young University - Idaho__, Rexburg, Idaho 
 
 - Bachelor of Science: Computer Information Technology 
@@ -51,7 +51,6 @@ _Brigham Young University-Idaho_
 `Jul 2022 - Dec 2022`
 __Transfer Evaluation Processor__, Rexburg, Idaho - 
 _Brigham Young University-Idaho_
-Transfer Evaluation Processor | Brigham Young University-Idaho | Rexburg, ID                                                       July 2022 – Dec 2022
 - •	Perform classes equivalencies taken in other colleges into BYU-Idaho's course catalog within over 150 courses
 - •	Collaborate with up to 5 co-workers to complete a proper evaluation for student's transcript courses equivalencies to BYU- Idaho's catalog
 - •	Execute impeccable private/personal information for over 1500 transfer students in BYU-Idaho records
