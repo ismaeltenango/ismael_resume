@@ -27,10 +27,9 @@ A dedicated employee good known for punctuality and time management, pursuing te
 | 
   <a href="https://www.linkedin.com/in/ismael-tenango1998/">LinkedIn
   <a href="https://www.linkedin.com/in/ismael-tenango1998/" target="_blank"><img src="./linkedin_logo.png" alt="Linkedin logo" style="width: 17px; border-radius: 20%;"></a>
-</a>
-
-| 
-  <a href="tel:8014134970">801-413-4970 </a>
+  
+|
+  <a href="tel:8014134970">801-413-4970   </a>
   <a href="tel:8014134970" target="_blank"><img src="./phone_logo.png" alt="Phone logo" style="width: 17px; border-radius: 20%;"></a>
 </div>
 
