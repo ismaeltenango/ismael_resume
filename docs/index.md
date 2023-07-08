@@ -3,7 +3,7 @@ layout: cv
 title: Ismael Tenango
 ---
 <div>
-<a href="docs\photo.jpeg"></a>
+<img src="docs\photo.jpeg" alt="Italian Trulli">
 </div>
 
 # Ismael Tenango
@@ -13,7 +13,7 @@ _Innovated and experimental, working under pressure and attentive to details. En
 A dedicated employee good known for punctuality and time management, pursuing team progress where good customer service, problem-solving, and a positive attitude as a plus, flexible, ready to study and contribute to team success, to strive for the company's goals._
 
 <div id="webaddress">
-<a href="https://www.linkedin.com/in/ismael-tenango1998/" target="_blank"><img src="docs\linkedin_logo.png" alt="Linkedin logo" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://www.linkedin.com/in/ismael-tenango1998/" target="_blank"><img src="./linkedin_logo.png" alt="Linkedin logo" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
   <a href = "mailto: ismael4477@gmail.com">Ismael4477@gmail.com</a>
 <!-- | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a> -->
@@ -27,10 +27,9 @@ A dedicated employee good known for punctuality and time management, pursuing te
 ## Education
 
 `2020 -  (Expected) April 2024`
-__Brigham Young University - Idaho__, Rexburg, Idaho 
+__Brigham Young University - Idaho__, Rexburg, Idaho
 
 - Bachelor of Science: Computer Information Technology 
-
 - 3.7 Comulative GPA
 
 
@@ -119,11 +118,6 @@ _The Church of Jesus Christ of Latter-day Saints_
 •	PHP (basic)
 •	AWS (basic)
 
-
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text 
 
 ### updated: July 2023
 
