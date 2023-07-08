@@ -8,7 +8,9 @@ title: Ismael Tenango
 </div>
 
 # Ismael Tenango
-
+<a href="./IsmaelMoises_TenangoAnaya_Resume.docx" Download Resume>
+  <img src="/./IsmaelMoises_TenangoAnaya_Resume.docx" alt="Ismael's resume">
+</a>
 
 _Innovated and experimental, working under pressure and attentive to details. Enthusiastic about learning from teammates and brainstorming, looking for answers and solutions, and trying not to make more problems in the team or project, investing time out of the work schedule to be more productive during work hours
 A dedicated employee good known for punctuality and time management, pursuing team progress where good customer service, problem-solving, and a positive attitude as a plus, flexible, ready to study and contribute to team success, to strive for the company's goals._
@@ -108,18 +110,12 @@ _The Church of Jesus Christ of Latter-day Saints_
 
 ## Skills
 
-•	MySQL (Proficient)
-•	Python (Proficient)
-•	CSS (Proficient)
-•	HTML(Proficient)
-•	Cisco Networking (Proficient)
-•	JavaScript (Intermediate)	•	Linux Shell Scripting (Intermediate)
-•	DAX (Intermediate)
-•	EXCEL (Moderate)
-•	PowerShell (basic)
-•	PHP (basic)
-•	AWS (basic)
-
+| Profient      | Intermediate | basic |
+| ----------- | ----------- | -----------
+| MySQL | JavaScript | PowerShell |
+| Python | Linux Shell Scripting | PHP |
+| HTML | DAX | AWS |
+| Cisco Networking | EXCEL  | PowerApps |
 
 ### updated: July 2023
 
