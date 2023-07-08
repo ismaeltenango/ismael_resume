@@ -20,7 +20,7 @@ A dedicated employee good known for punctuality and time management, pursuing te
 ## Education
 
 `2020 - April, 2024 (Expected)`
-__Brigham Young University - Idaho__, Rexburg, Idaho
+__Brigham Young University - Idaho__, Rexburg, Idaho 
 
 - Bachelor of Science: Computer Information Technology 
 
@@ -31,36 +31,45 @@ __Brigham Young University - Idaho__, Rexburg, Idaho
 ## Related Experience
 
 
+### Work Experience
+`April 2023 - Present`
+__Data Visualization/Administration Specialist II__, Rexburg, Idaho - 
+_Brigham Young University-Idaho_
+- •	Proficient use of Interactive data visualization software, compilating data and efficiently connecting tables for better organization and accurate measurements
+- •	Regular usage of SQL servers, Excel spreadsheets, SharePoint, and SIS (Student Information System) software to recollect data and clean up for better work, analysis, and visualization process
+- •	Constant and effective communication with Analysts, Supervisors, and Associate Registrars for the creation of better visualization and constant project alignment
+- •	Use of DAX to create appropriate measurements to increase productivity for the team and create accurate visualizations
 
-### Data Science Lead
+`Sep 2022 - Dec 2022`
+__Data Design & Development Teacher Assistant__, Rexburg, Idaho - 
+_Brigham Young University-Idaho_
+- •	Grading MySQL weekly projects, analyzing code, testing outputs and inputs to grade based on rubric supplied
+- •	Reinforce and assist over 20 students with all questions related to scores and general approaches to understanding topics and general concepts
+- •	Maintain communication between professor and assistant (me) to deliver effective education and productivity to over 20  students
+- •	Motivating high and constant communication on the team to ensure fast and high productivity to finish tasks in under 8 hours
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`Jul 2022 - Dec 2022`
+__Transfer Evaluation Processor__, Rexburg, Idaho - 
+_Brigham Young University-Idaho_
+Transfer Evaluation Processor | Brigham Young University-Idaho | Rexburg, ID                                                       July 2022 – Dec 2022
+- •	Perform classes equivalencies taken in other colleges into BYU-Idaho's course catalog within over 150 courses
+- •	Collaborate with up to 5 co-workers to complete a proper evaluation for student's transcript courses equivalencies to BYU- Idaho's catalog
+- •	Execute impeccable private/personal information for over 1500 transfer students in BYU-Idaho records
+- •	Implementing fast, clear and respectful communication between all support services inside of BYU CES system education to over 30,000 students' records
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
 
 
 ### Internship
 
 `January 2023 - April 2023`
-__Network Operations Engineer__, Rexburg Idaho - 
+__Network Operations Engineer__, (Remote) Rexburg, Idaho - 
 _The Church of Jesus Christ of Latter-day Saints_
-- Global collaboration in the Network Proactive Service Team, fixing and troubleshooting ports in switches and routers remotely with the assistance of on-site personnel in over 20,000 locations
-- Explanatory clear communication for fast, effective, and proactive work with on-field technicians overseas supporting the Data Centers, Campus, and Field Network team
-- Professional handling of sensitive information and access with adequate manipulation 
-- Troubleshoot PDUs and UPSs that are causing whole networks for going down. Maintenance, and prevention for future networks going down on sites
-- Casual Participation in the migration from Cisco to Arista and the hybrid Field Network of Meraki SDWAN and Cisco
-- Helping support a global network in every country in the world in both the Urban and Rural areas
-
+- • Global collaboration in the Network Proactive Service Team, fixing and troubleshooting ports in switches and routers remotely with the assistance of on-site personnel in over 20,000 locations
+- • Explanatory clear communication for fast, effective, and proactive work with on-field technicians overseas supporting the Data Centers, Campus, and Field Network team
+- • Professional handling of sensitive information and access with adequate manipulation 
+- • Troubleshoot PDUs and UPSs that are causing whole networks for going down. Maintenance, and prevention for future networks going down on sites
+- • Casual Participation in the migration from Cisco to Arista and the hybrid Field Network of Meraki SDWAN and Cisco
+- • Helping support a global network in every country in the world in both the Urban and Rural areas
 
 
 
@@ -77,13 +86,27 @@ training.
 
 __SHPE (Society of Hispanic Professional Engineers) chapter founder at BYU-I__, Rexbur, Idaho
 _Brigham Young University - Idaho_
-- Role of Secretary in the leadership
-- Active participation in the creation of a new chapter in BYU-Idaho
+- • Role of Secretary in the leadership
+- • Active participation in the creation of a new chapter in BYU-Idaho
 
 `2016 - 2018`
-__Service full-time Missionary__, Monterrey Mexico
+__Service full-time Missionary__, Monterrey, Mexico
 _The Church of Jesus Christ of Latter-day Saints_
-- Active preaching of Jesus Christ teachings, acts of service and support to community, and good planning skills were applied
+- • Active preaching of Jesus Christ teachings, acts of service and support to community, and good planning skills were applied
+
+## Skills
+
+•	MySQL (Proficient)
+•	Python (Proficient)
+•	CSS (Proficient)
+•	HTML(Proficient)
+•	Cisco Networking (Proficient)
+•	JavaScript (Intermediate)	•	Linux Shell Scripting (Intermediate)
+•	DAX (Intermediate)
+•	EXCEL (Moderate)
+•	PowerShell (basic)
+•	PHP (basic)
+•	AWS (basic)
 
 
 ### updated: July 2023
