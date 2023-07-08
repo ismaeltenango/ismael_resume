@@ -3,7 +3,8 @@ layout: cv
 title: Ismael Tenango
 ---
 <div>
-<img src="./photo.jpeg" alt="Ismael Tenango Photo">
+<img src="./photo.jpeg" alt="Ismael Tenango Photo" style="margin-left: auto; margin-right: auto; display: block; width: 150px;
+    border-radius: 20%;">
 </div>
 
 # Ismael Tenango
@@ -13,13 +14,15 @@ _Innovated and experimental, working under pressure and attentive to details. En
 A dedicated employee good known for punctuality and time management, pursuing team progress where good customer service, problem-solving, and a positive attitude as a plus, flexible, ready to study and contribute to team success, to strive for the company's goals._
 
 <div id="webaddress">
-<a href="https://www.linkedin.com/in/ismael-tenango1998/" target="_blank"><img src="./linkedin_logo.png" alt="Linkedin logo"></a>
-
   <a href = "mailto: ismael4477@gmail.com">Ismael4477@gmail.com</a>
-<!-- | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a> -->
-| <a href="https://www.linkedin.com/in/ismael-tenango1998/">LinkedIn</a>
-<!-- | <a href="https://github.com/byuids-resumes">GitHub</a> -->
+  <a href="mailto: ismael4477@gmail.com" target="_blank"><img src="./mail_logo.png" alt="Mail logo" styel="width: 17px; border-radius: 20%;"><a>
+
+| <a href="https://www.linkedin.com/in/ismael-tenango1998/">LinkedIn
+<a href="https://www.linkedin.com/in/ismael-tenango1998/" target="_blank"><img src="./linkedin_logo.png" alt="Linkedin logo" styel="width: 17px; border-radius: 20%;"><a>
+</a>
+
 |  <a href="tel:8014134970">Phone Number: 801-413-4970.</a>
+<a href="tel:8014134970" target="_blank"><img src="./phone_logo.png" alt="Phone logo" styel="width: 17px; border-radius: 20%;"><a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
