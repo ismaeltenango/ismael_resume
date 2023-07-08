@@ -2,13 +2,19 @@
 layout: cv
 title: Ismael Tenango
 ---
-[Ismael Tenango](docs\Ismael_Tenango.png)
+<div>
+<a href="docs\photo.jpeg"></a>
+</div>
+
+# Ismael Tenango
 
 
 _Innovated and experimental, working under pressure and attentive to details. Enthusiastic about learning from teammates and brainstorming, looking for answers and solutions, and trying not to make more problems in the team or project, investing time out of the work schedule to be more productive during work hours
 A dedicated employee good known for punctuality and time management, pursuing team progress where good customer service, problem-solving, and a positive attitude as a plus, flexible, ready to study and contribute to team success, to strive for the company's goals._
 
 <div id="webaddress">
+<a href="https://www.linkedin.com/in/ismael-tenango1998/" target="_blank"><img src="docs\linkedin_logo.png" alt="Linkedin logo" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
   <a href = "mailto: ismael4477@gmail.com">Ismael4477@gmail.com</a>
 <!-- | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a> -->
 | <a href="https://www.linkedin.com/in/ismael-tenango1998/">LinkedIn</a>
@@ -31,8 +37,6 @@ __Brigham Young University - Idaho__, Rexburg, Idaho
 
 ## Related Experience
 
-
-### Work Experience
 `April 2023 - Present`
 __Data Visualization/Administration Specialist II__, Rexburg, Idaho
 
@@ -83,7 +87,7 @@ _The Church of Jesus Christ of Latter-day Saints_
 __RBDC (Rexburg Business & Dvelopment Center)__, Rexburg, Idaho
 
 _Non-profit Organization_
-- The goal of the CRM project is to build a database and multiple apps that allow RBDC employees
+- • The goal of the CRM project is to build a database and multiple apps that allow RBDC employees
 to manage the lifecycle of students from recruiting, marketing, to applying to for our internships,
 interviews, acceptance or rejection into the program, new hire onboarding and training, being
 placed on project teams, working with clients, submitting assignments, completion of the
@@ -115,6 +119,11 @@ _The Church of Jesus Christ of Latter-day Saints_
 •	PHP (basic)
 •	AWS (basic)
 
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text 
 
 ### updated: July 2023
 
