@@ -22,7 +22,6 @@ A dedicated employee good known for punctuality and time management, pursuing te
 |
   <a href = "mailto: ismael4477@gmail.com">Ismael4477@gmail.com   </a>
   <a href="mailto: ismael4477@gmail.com" target="_blank"><img src="./mail_logo.png" alt="Mail logo" style="width: 17px; border-radius: 20%;"></a>
-  </a>
 
 | 
   <a href="https://www.linkedin.com/in/ismael-tenango1998/">LinkedIn   </a>
