@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: [Ismael Tenango](docs\Ismael_Tenango.png)
+title: Ismael Tenango
 ---
-# Ismael Tenango
+[Ismael Tenango](docs\Ismael_Tenango.png)
 
 
 _Innovated and experimental, working under pressure and attentive to details. Enthusiastic about learning from teammates and brainstorming, looking for answers and solutions, and trying not to make more problems in the team or project, investing time out of the work schedule to be more productive during work hours
