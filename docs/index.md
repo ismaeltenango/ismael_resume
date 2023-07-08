@@ -3,13 +3,17 @@ layout: cv
 title: Ismael Tenango
 ---
 <div>
+
+
 <img src="./photo.jpeg" alt="Ismael Tenango photo" style="margin-left: auto; margin-right: auto; display: block; width: 150px;
     border-radius: 20%;">
 </div>
 
+
 # Ismael Tenango
+
 <a href="./IsmaelMoises_TenangoAnaya_Resume.docx" download="Download Ismael' Resume">
-<img src="./download_logo.png" alt="Mail logo" style="display: block; width: 17px; border-radius: 20%;">Download Ismael's Tenango Resume</a>
+<img src="./download_logo.png" alt="Mail logo" style="width: 17px; border-radius: 20%;">Download Ismael Tenango's Resume</a>
 
 _Innovated and experimental, working under pressure and attentive to details. Enthusiastic about learning from teammates and brainstorming, looking for answers and solutions, and trying not to make more problems in the team or project, investing time out of the work schedule to be more productive during work hours
 A dedicated employee good known for punctuality and time management, pursuing team progress where good customer service, problem-solving, and a positive attitude as a plus, flexible, ready to study and contribute to team success, to strive for the company's goals._
