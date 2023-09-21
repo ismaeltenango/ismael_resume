@@ -85,7 +85,7 @@ __RBDC (Rexburg Business & Dvelopment Center)__, Rexburg, Idaho
 
 _Non-profit Organization_
 
-Supporting business director in a Non-Profit organization to develop a PowerApps App and a database that supports organization to organize their projects and interns that provides an easy functional administration of the company and logistics of their customers and employees
+Supporting business director in this Non-Profit organization to develop a PowerApps Application and a database that supports the firm to organize their projects and interns that provides an easy functional administration of the company and logistics of their customers and employees
 
 
 
