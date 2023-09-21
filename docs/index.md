@@ -56,7 +56,7 @@ Efficiently using data visualization software to organize and measure data. Addi
 
 _Brigham Young University-Idaho_
 
-Grade MySQL projects, assessed code, and evaluated student work based on provided rubrics. Moreover, I've supported over 20 students through consultations and tutoring, helping them grasp MySQL concepts. I've also facilitated communication between the professor and myself for effective education delivery. Additionally, I've promoted team communication, ensuring efficient task completion within tight deadlines.
+Grading MySQL projects, assessed code, and evaluated student work based on provided rubrics. Moreover, I've supported over 20 students through consultations and tutoring, helping them grasp MySQL concepts. I've also facilitated communication between the professor and myself for effective education delivery. Additionally, I've promoted team communication, ensuring efficient task completion within tight deadlines.
 
 `Jul 2022 - Dec 2022`
 __Transfer Evaluation Processor__, Rexburg, Idaho
@@ -85,7 +85,7 @@ __RBDC (Rexburg Business & Dvelopment Center)__, Rexburg, Idaho
 
 _Non-profit Organization_
 
-Support to business director in a Non-Profit organization to develop a PowerApps App and a database that supports organization to organize their projects and interns that provides an easy functional administration of the company
+Supporting business director in a Non-Profit organization to develop a PowerApps App and a database that supports organization to organize their projects and interns that provides an easy functional administration of the company and logistics of their customers and employees
 
 
 
