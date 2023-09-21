@@ -12,7 +12,7 @@ title: Ismael Tenango
 
 # Ismael Tenango
 
-<a href="./IsmaelMoises_TenangoAnaya_Resume.docx" download="Download Ismael' Resume">
+<a href="./IsmaelMoises_TenangoAnaya.docx" download="Download Ismael' Resume">
 <img src="./download_logo.png" alt="Mail logo" style="width: 23px; border-radius: 20%;">Download Resume</a>
 
 _I am an innovative and detail-oriented professional who excels in high-pressure situations. I actively seek learning opportunities from team members, promote creative problem-solving, and prioritize team cohesion while avoiding disruptions. I invest extra time outside my regular schedule to boost productivity. Recognized for punctuality and effective time management, I'm dedicated to driving team progress through excellent customer service, problem-solving, and a positive attitude. I'm adaptable, eager to learn, and committed to contributing to team success in alignment with company goals._
