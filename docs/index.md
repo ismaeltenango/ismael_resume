@@ -37,7 +37,8 @@ _I am an innovative and detail-oriented professional who excels in high-pressure
 `2020 -  (Expected) April 2024`
 __Brigham Young University - Idaho__, Rexburg, Idaho
 
-- Bachelor of Science: Computer Information Technology 
+- Bachelor of Science: Computer Information Technology
+- Certificates in progress: Databases, Data Science, System Admin 
 - 3.7 Comulative GPA
 
 
