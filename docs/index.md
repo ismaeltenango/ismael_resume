@@ -63,7 +63,7 @@ __Transfer Evaluation Processor__, Rexburg, Idaho
 
 _Brigham Young University-Idaho_
 
-Transfer work of transcript classes from other colleges into BYU-Idaho's course catalog across 150+ courses. Collaborated with 5 colleagues to ensure accurate equivalencies for transfer students. Managed private data for 1500+ transfer students. Fostered clear communication within BYU CES to serve 30,000+ student records effectively.
+Transfer analysis work of official transcripts from students coming to BYU-Idaho creating equivalencies of a BYU-Idaho catalog with 700+ courses. Collaborated with 5 colleagues to ensure accurate equivalencies for transfer students. Managed private data for 20,000+ transfer students’ transcripts. Fostered clear communication within BYU CES to serve 30,000+ student records effectively.
 
 
 
