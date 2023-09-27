@@ -9,9 +9,6 @@ title: Ismael Tenango
     border-radius: 20%;">
 </div>
 
-
-# Ismael Tenango
-
 <a href="./IsmaelMoises_TenangoAnaya.docx" download="Download Ismael' Resume">
 <img src="./download_logo.png" alt="Mail logo" style="width: 23px; border-radius: 20%;">Download Resume</a>
 
@@ -38,8 +35,7 @@ _I am an innovative and detail-oriented professional who excels in high-pressure
 __Brigham Young University - Idaho__, Rexburg, Idaho
 
 - Bachelor of Science: Computer Information Technology
-- Certificates in progress: Databases, Data Science, System Admin 
-- 3.7 Comulative GPA
+- Certificates in progress: Databases, Data Science, System Admin
 
 
 
